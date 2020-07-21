@@ -1,0 +1,1 @@
+# InformeN6_FloresDeValgas_Jerez_Sangoquiza
