@@ -77,8 +77,6 @@ Se recomienda tener cuidado con los prefijos para cada unidad que perjudiquen y 
 
  10.-ANEXOS:
  
- Cálculos Analíticos
- 
  ![](https://github.com/JonathanFloresDeValgas/InformeN6_FloresDeValgas_Jerez_Sangoquiza/blob/master/Hojas%20T%C3%A9cnicas/Analisis%20de%20Resultados2.png)
  
  ![](https://github.com/JonathanFloresDeValgas/InformeN6_FloresDeValgas_Jerez_Sangoquiza/blob/master/Hojas%20T%C3%A9cnicas/Analisis%20de%20Resultados3.png)
