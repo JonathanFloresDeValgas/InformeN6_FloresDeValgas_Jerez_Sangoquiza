@@ -74,7 +74,7 @@ Se recomienda tener cuidado con los prefijos para cada unidad que perjudiquen y 
 9.- BIBLIOGRAFIA
  
  - Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F.
- -  Link de acceso a los cálculos en Overleaf
+ -  Link de acceso a los cálculos en Overleaf: https://www.overleaf.com/2843888327fvdwhthjxswr
 
  10.-ANEXOS:
  
