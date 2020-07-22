@@ -20,15 +20,15 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
 * Específico:
 
-- Determinación de la resistencia de carga que permitirá transferir la potencia máxima.
-- Identificar el comportamietno del circuito y las pérdidas 
+Determinación de la resistencia de carga que permitirá transferir la potencia máxima.
+Identificar el comportamietno del circuito y las pérdidas 
 
 
 3.- MARCO TEORICO:
 
-Para el análisis de potencia máxima de un circuito lineal, se debe conocer los valores de VTh, RL y RTh, puesto que su relación para el cálculp de potencia nos permitirá obtener facilmente el valor de potencia máxima, pero existen algunas cuestiones a tener en cuenta. 
+Para el análisis de potencia máxima de un circuito lineal, se debe conocer los valores de VTh, RL y RTh, puesto que su relación para el cálculp de potencia nos permitirá obtener fácilmente el valor de potencia máxima, pero existen algunas cuestiones a tener en cuenta. 
 
-En presencia de un circuito con una carga RL (variable), siempre es recomendable rediseñar el circuito aplicando el Teorema de Thevenin. Este diseño es muy usado para suministrar de potencia a la carga RL.
+En presencia de un circuito con una carga RL (variable), siempre es recomendable rediseñar el circuito aplicando el Teorema de Thevenin. Este diseño es muy usado para suministrar de potencia a la carga RL. Además, es considerable que el rediseño de este circuito puede generar pérdidas significativas de potencia puesto que la supresión de potencia en los componentes tiene una influencia directa en comparación con el circuito original.
 RL al ser variable estará comprendida entre valores de cero a infinito. Cabe mencionar, que a valores máximos de RL la potencia cerá baja, de igual forma sucede si la carga Rl es mínima. 
 
 ![](https://github.com/JonathanFloresDeValgas/InformeN6_FloresDeValgas_Jerez_Sangoquiza/blob/master/img/Sadiku%203%20Ed.pdf%20-%20Adobe%20Acrobat%20Reader%20DC%2021_07_2020%2022_35_34.png)
