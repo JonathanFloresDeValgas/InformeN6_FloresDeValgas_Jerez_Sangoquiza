@@ -14,11 +14,11 @@ Fecha: 2020 - 07 - 21
 
 * General: 
 
+Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
 * Específico:
 
-
-
+Determinación de la resistencia de carga que permitirá transferir la potencia máxima.
 
 3.- MARCO TEORICO:
 
