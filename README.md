@@ -31,7 +31,7 @@ Circuito designado:
 
 Circuito implementado:
 
-![](https://github.com/JonathanFloresDeValgas/InformeN6_FloresDeValgas_Jerez_Sangoquiza/blob/master/img/DIAGRAMA.png)
+![](https://github.com/JonathanFloresDeValgas/InformeN6_FloresDeValgas_Jerez_Sangoquiza/blob/master/img/DiagramaN6.png)
 
 5.- LISTA DE COMPONENTES:
 
