@@ -69,6 +69,7 @@ Se recomienda tener cuidado con los prefijos para cada unidad que perjudiquen y 
 
 8.- CRONOGRAMA:
 
+![](https://github.com/JonathanFloresDeValgas/InformeN6_FloresDeValgas_Jerez_Sangoquiza/blob/master/img/Cronograma.0.png)
 
 9.- BIBLIOGRAFIA
  
