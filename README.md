@@ -26,6 +26,7 @@ Fecha: 2020 - 07 - 21
 4.- DIAGRAMAS:
 
 Circuito designado:
+
 ![](https://github.com/JonathanFloresDeValgas/InformeN6_FloresDeValgas_Jerez_Sangoquiza/blob/master/img/CN6.PNG)
 
 circuito implementado:
