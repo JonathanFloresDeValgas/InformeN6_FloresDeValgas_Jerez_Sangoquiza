@@ -29,7 +29,7 @@ Circuito designado:
 
 ![](https://github.com/JonathanFloresDeValgas/InformeN6_FloresDeValgas_Jerez_Sangoquiza/blob/master/img/CN6.PNG)
 
-circuito implementado:
+Circuito implementado:
 
 ![](https://github.com/JonathanFloresDeValgas/InformeN6_FloresDeValgas_Jerez_Sangoquiza/blob/master/img/DIAGRAMA.png)
 
