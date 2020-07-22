@@ -21,7 +21,8 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 * Específico:
 
 Determinación de la resistencia de carga que permitirá transferir la potencia máxima.
-Identificar el comportamietno del circuito y las pérdidas 
+Calcular los valores de potencia máxima del circuito.
+Identificar que valores de RL resultan en el cálculo de la Potencia Máxima.
 
 
 3.- MARCO TEORICO:
@@ -57,14 +58,18 @@ Circuito implementado:
  
 6.- CONCLUSIONES:
 
-Existirán considera
+El cálculo de potencia por el método de Thevenin no es precisamente “Potencia Máxima” puesto que dependerá de los valores de la carga (RL) con respecto a la resistencia de Thevenin (RTh).
+Tras los cálculos realizados, se concluye que la potencia máxima de RL llega a ser aquella que posee un valor más próximo al valor de RTh. Puesto que la que más se acerca a este valor es la carga de 1000Ohm con una diferencia menor que el resto de cargas, entonces esta tiene una Potencia máxima.
 
 
 7.- RECOMENDACIONES:
 
-
+Se recomienda tener cuidado con los prefijos para cada unidad que perjudiquen y distorcionen los resultados en los cálculos de potencia. 
+Además, se debe analizar la diferencia entre los valores RTh y RL antes de realizar los cálculos, puesto que los resultados deberán estar a corde al análisis planteado.
+Se recomienda tener muy en cuenta no todas las potencias calculadas aplicando el Teorema de Thevenin son netamente Máximas.
 
 8.- CRONOGRAMA:
+
 
 9.- BIBLIOGRAFIA
  
