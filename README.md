@@ -25,12 +25,16 @@ Fecha: 2020 - 07 - 21
 
 4.- DIAGRAMAS:
 
+Circuito designado:
+![](https://github.com/JonathanFloresDeValgas/InformeN6_FloresDeValgas_Jerez_Sangoquiza/blob/master/img/CN6.PNG)
 
+circuito implementado:
 
+![](https://github.com/JonathanFloresDeValgas/InformeN6_FloresDeValgas_Jerez_Sangoquiza/blob/master/img/DIAGRAMA.PNG)
 
 5.- LISTA DE COMPONENTES:
 
-
+![](https://github.com/JonathanFloresDeValgas/InformeN6_FloresDeValgas_Jerez_Sangoquiza/blob/master/img/Comp.PNG)
  
 6.- CONCLUSIONES:
 
