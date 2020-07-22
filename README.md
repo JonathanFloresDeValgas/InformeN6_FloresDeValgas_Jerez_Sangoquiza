@@ -22,6 +22,9 @@ Determinación de la resistencia de carga que permitirá transferir la potencia 
 
 3.- MARCO TEORICO:
 
+Para el análisis de potencia en presencia de un circuito con una carga RL (variable), siempre es recomendable rediseñar el circuito aplicando el Teorema de Thevenin. Este diseño es muy usado para suministrar de potencia a la carga RL.
+RL al ser variable estará comprendida entre valores de cero a infinito. Cabe mencionar, que a valores máximos de RL la potencia cerá baja, de igual forma sucede si la carga Rl es mínima. 
+
 
 4.- DIAGRAMAS:
 
